@@ -1,0 +1,10 @@
+    1  cd
+    2  cd /d/git101
+    3  git status
+    4  git init
+    5  git status
+    6  rm -rf .git
+    7  git status
+    8  history
+    9  history >>> note.txt
+   10  history >> note.txt
